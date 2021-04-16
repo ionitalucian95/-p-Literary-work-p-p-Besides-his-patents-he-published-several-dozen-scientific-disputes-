@@ -1,0 +1,16 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: green;
+}
+nav{
+    
+    display: inline-block;
+    width: 20%;
+    margin-bottom: 8px;
+    font-family: cursive;
+}
+section{
+    padding: 10px 10px;
+    width: 75%;
+    display: inline-block;
+  
+}
